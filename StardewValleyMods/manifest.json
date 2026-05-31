@@ -1,0 +1,9 @@
+{
+  "Name": "Vietname Character TTS",
+  "Author": "Sayora",
+  "Version": "%ProjectVersion%",
+  "Description": "Phát giọng đọc tiếng Việt bằng Google TTS cho các NPC khi nói chuyện.",
+  "UniqueID": "Sayora.VietnameseCharacterTTS",
+  "EntryDll": "VietnameseCharacterTTS.dll",
+  "MinimumApiVersion": "4.0.0"
+}
